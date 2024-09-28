@@ -1,0 +1,191 @@
+
+
+const CareerTree = () => {
+  	return (
+    		<div className="w-full relative bg-aliceblue h-[3756px] overflow-hidden text-left text-[21.51px] text-white font-roboto">
+      			<div className="absolute top-[0px] left-[0px] w-[1440px] h-[3976px] overflow-hidden flex flex-col items-start justify-start gap-2.5">
+        				<img className="w-[71px] relative h-[701px] object-cover z-[0]" alt="" src="image 188.png" />
+        				<img className="w-[1324px] absolute !m-[0] top-[78px] left-[86px] h-[725px] object-cover z-[1]" alt="" src="Mask group.png" />
+        				<div className="w-[1408.2px] absolute !m-[0] top-[822px] left-[16px] rounded-[9px] bg-gray h-[2933.7px] overflow-hidden shrink-0 z-[2]">
+          					<div className="absolute top-[70.41px] left-[0px] bg-dimgray w-[1408.2px] h-[280.7px]" />
+          					<div className="absolute top-[482.11px] left-[0px] bg-dimgray w-[821.4px] h-[624.9px]" />
+          					<div className="absolute top-[2073px] left-[786px] bg-sky-600 w-[622px] h-[555px]" />
+          					<div className="absolute top-[2073px] left-[0px] bg-dimgray w-[772px] h-[555px]" />
+          					<div className="absolute top-[1911px] left-[0px] bg-mistyrose w-[1408px] h-[151px]" />
+          					<div className="absolute top-[2642px] left-[0px] bg-peru w-[1408px] h-[211px]" />
+          					<div className="absolute top-[660px] left-[834px] bg-peru w-[574px] h-[447px]" />
+          					<div className="absolute top-[482px] left-[834px] bg-sky-600 w-[574px] h-[166px]" />
+          					<div className="absolute top-[210.25px] left-[0px] bg-chocolate w-[1408.2px] h-[46.9px]" />
+          					<div className="absolute top-[18.58px] left-[88.01px] text-[23.47px] leading-[31.29px]">Aeronautical Engineer</div>
+          					<div className="absolute top-[533.93px] left-[69.43px] leading-[27.38px]">
+            						<ol className="m-0 font-inherit text-inherit pl-[29px]">
+              							<li>Complete 10+2 In Science (Physics, Chemistry, Maths)</li>
+            						</ol>
+          					</div>
+          					<div className="absolute top-[626.83px] left-[69.43px] leading-[27.38px]">
+            						<ol className="m-0 font-inherit text-inherit pl-[29px]">
+              							<li className="mb-0">Complete Bachelor’s Degree (B.Tech/B.E.) In Aeronautical Or Aerospace</li>
+            						</ol>
+            						<p className="m-0">      Aerospace Engineering</p>
+          					</div>
+          					<div className="absolute top-[728.54px] left-[69.43px] leading-[27.38px]">EXPECTED INCOME</div>
+          					<div className="absolute top-[498px] left-[881px] leading-[27.38px]">FEES</div>
+          					<div className="absolute top-[684px] left-[884px] leading-[27.38px]">LOANS</div>
+          					<div className="absolute top-[883.05px] left-[70.41px] leading-[27.38px]">WHERE WILL YOU WORK</div>
+          					<div className="absolute top-[769.61px] left-[70.41px] text-[13.69px] tracking-[0.1px] leading-[19.56px] font-medium">The Figures Are Indicative and Are Subject To Change</div>
+          					<div className="absolute top-[220.03px] left-[calc(50%_-_62.6px)] text-[23.47px] uppercase inline-block w-[125.2px]">top skills</div>
+          					<div className="absolute top-[134.95px] left-[27.38px] text-[15.65px] tracking-[0.49px] leading-[23.47px] inline-block w-[1309.4px]">An Aeronautical Engineer is responsible for designing, developing and constructing safe and fuel - efficient machines, which can fly in air and
+space, such as aircraft, helicopter, satellites, missiles, drones and spacecraft. He/She is also responsible for regularly inspecting and issuing
+clearance of the aircraft for air-worthiness.</div>
+          					<div className="absolute top-[84.1px] left-[27.38px] text-[31.29px] leading-[39.12px]">About</div>
+          					<div className="absolute top-[283.59px] left-[calc(50%_-_396.06px)] flex flex-row items-center justify-start gap-[37.2px] text-[19.56px] text-darkslategray">
+            						<div className="w-[92.9px] rounded-[18.09px] bg-mistyrose h-[36.2px] flex flex-row items-center justify-center py-[3.9px] px-[37.2px] box-border">
+              							<div className="relative">CAD</div>
+            						</div>
+            						<div className="w-[92.9px] rounded-[18.09px] bg-mistyrose h-[36.2px] flex flex-row items-center justify-center py-[3.9px] px-[37.2px] box-border">
+              							<div className="relative">CAM</div>
+            						</div>
+            						<div className="w-[186.8px] rounded-[18.09px] bg-mistyrose h-[36.2px] flex flex-row items-center justify-center py-[3.9px] px-[37.2px] box-border">
+              							<div className="w-[163.3px] relative inline-block shrink-0">Structural Analysis</div>
+            						</div>
+            						<div className="w-[155.5px] rounded-[18.09px] bg-mistyrose h-[36.2px] flex flex-row items-center justify-center py-[3.9px] px-[37.2px] box-border">
+              							<div className="w-[125.2px] relative inline-block shrink-0">Aerodynamics</div>
+            						</div>
+            						<div className="w-[114.4px] rounded-[18.09px] bg-mistyrose h-[36.2px] flex flex-row items-center justify-center py-[3.9px] px-[37.2px] box-border">
+              							<div className="w-[74.3px] relative inline-block shrink-0">Avionics</div>
+            						</div>
+          					</div>
+          					<div className="absolute top-[385.29px] left-[20.54px] rounded-[9.78px] bg-sandybrown w-[182.9px] h-[70.4px]" />
+          					<div className="absolute top-[404.85px] left-[calc(50%_-_628.8px)] text-[14.67px] text-black text-center">
+            						<p className="m-0">Personality</p>
+            						<p className="m-0">Traits</p>
+          					</div>
+          					<div className="absolute top-[436.14px] left-[calc(50%_-_435.18px)] text-[14.67px] text-center">
+            						<p className="m-0">{`You Like To Build or `}</p>
+            						<p className="m-0">Assemble Things</p>
+          					</div>
+          					<div className="absolute top-[436.14px] left-[calc(50%_+_40.08px)] text-[14.67px] text-center">
+            						<p className="m-0">{`You like keeping things in order `}</p>
+            						<p className="m-0">and analyse problems</p>
+          					</div>
+          					<div className="absolute top-[436.14px] left-[calc(50%_+_392.13px)] text-[14.67px] text-center">
+            						<p className="m-0">You enjoy figuring how things</p>
+            						<p className="m-0">work and pay attention to details</p>
+          					</div>
+          					<div className="absolute top-[796.01px] left-[70.41px] text-[13.69px] tracking-[0.1px] leading-[19.56px] font-medium inline-block w-[716.8px]">
+            						<p className="m-0">{`“The Figures Are Indicative & Subject To Change The Approx. `}</p>
+            						<p className="m-0">{`Salary of An Aeronautical/Aerospace Engineer Ranges Between INR 18,750 - 1,51,250* Per Month” `}</p>
+            						<p className="m-0">Source: https://www.Amecet.in/Aeronautical-Engineering-Salary-in-Indida.php</p>
+              							</div>
+              							<div className="absolute top-[968.12px] left-[71.39px] text-[13.69px] tracking-[0.1px] leading-[19.56px] font-medium">
+                								<p className="m-0">Work Environment: It is a full-time job, work hours may extend to more</p>
+                								<p className="m-0">than 8 hours a day. You can either work in office or at units where equipment is</p>
+                								<p className="m-0">designed, manufactured, assembled or tested. Opportunities for differently abled exist in this field.</p>
+              							</div>
+              							<div className="absolute top-[920.21px] left-[71.39px] text-[13.69px] tracking-[0.1px] leading-[19.56px] font-medium">
+                								<p className="m-0">Place of Work: Indian Air Force, Defence Ministry, Airlines industry,</p>
+                								<p className="m-0">Aviation companies or Research agencies.</p>
+              							</div>
+              							<div className="absolute top-[545px] left-[881px] text-[15.65px] tracking-[0.15px] leading-[23.47px] font-medium inline-block w-[499px]">The approx. course fee ranges between INR 6,000 - 1,33,333* for one year “(The above mentioned figures are approximate numbers. This will vary from Institute to Institute)”</div>
+              							<div className="absolute top-[735px] left-[888px] text-[13.69px] tracking-[0.1px] leading-[19.56px] font-medium inline-block w-[489px]">
+                								<p className="m-0 whitespace-pre-wrap">{`**VidyaLashmi**  `}</p>
+                								<p className="m-0">Website: [www.vidyalakshmi.co.in](http://www.vidyalakshmi.co.in)</p>
+                  									<p className="m-0">&nbsp;</p>
+                  									<p className="m-0">VidyaLashmi is a portal for students seeking education loans. This portal has been developed under the guidance of the following organizations:</p>
+                  									<p className="m-0">&nbsp;</p>
+                  									<p className="m-0">- Department of Financial Services (Ministry of Finance)</p>
+                  									<p className="m-0">- Department of Higher Education (Ministry of Human Resource Development)</p>
+                  									<p className="m-0">- Indian Banks Association (IBA)</p>
+                  									<p className="m-0">&nbsp;</p>
+                  									<p className="m-0">Students can view, apply for, and track their education loan applications on the website.</p>
+                  									<p className="m-0">&nbsp;</p>
+                  									<p className="m-0">Additionally, some states offer student credit cards with low interest rates, including West Bengal, Odisha, and Bihar.</p>
+                  									<p className="m-0">&nbsp;</p>
+                  									<p className="m-0">All banks provide education loans.
+</p>
+                  									</div>
+                  									<div className="absolute top-[1143.17px] left-[71.39px] leading-[27.38px]">EXPECTED GROWTH PATH</div>
+                  									<div className="absolute top-[1206.73px] left-[110.5px] leading-[27.38px]">Graduate Trainee Engineer</div>
+                  									<div className="absolute top-[1269.32px] left-[110.5px] leading-[27.38px]">Aircraft Engineer/Air Safety Officer</div>
+                  									<div className="absolute top-[1331.9px] left-[110.5px] leading-[27.38px]">Senior Engineer</div>
+                  									<div className="absolute top-[1394.49px] left-[110.5px] leading-[27.38px]">Prinicipal Engineer</div>
+                  									<div className="absolute top-[1489.35px] left-[110.5px] leading-[27.38px]">
+                    										<p className="m-0">Search Keywords....</p>
+                    										<p className="m-0">{`Aeronautical Engineer, Aerospace `}</p>
+                    										<p className="m-0">Engineer, Aeronautics</p>
+                  									</div>
+                  									<div className="absolute top-[1143.17px] left-[713.87px] leading-[27.38px]">SCHOLARSHIPS</div>
+                  									<div className="absolute top-[1191.08px] left-[708.98px] leading-[27.38px] inline-block w-[627.8px]">
+                    										<p className="m-0">Scholarship Information</p>
+                    										<p className="m-0">&nbsp;</p>
+                    										<p className="m-0">Merit-cum-Means based Scholarship: About 20,000 such engineering scholarships are awarded by the Ministry of Minority Affairs every year. The full course fees of awardees are directly paid to their institutions under this scheme.</p>
+                    										<p className="m-0">&nbsp;</p>
+                    										<p className="m-0">{`Indian Oil Educational Scholarship: IOC Ltd offers 300 scholarships every year to eligible students. Students need to be enrolled in an undergraduate course. The scholarship particularly focuses on students with physical disabilities, women, and students from North East and J&K.`}</p>
+                    										<p className="m-0">&nbsp;</p>
+                    										<p className="m-0">National Scholarship Portal: Visit [www.scholarships.gov.in](www.scholarships.gov.in). Under this portal, there are central government schemes offered by different departments, UGC/AICTE Schemes, and State Schemes.</p>
+                    										<p className="m-0">&nbsp;</p>
+                    										<p className="m-0 whitespace-pre-wrap">{`Buddy4Study: Visit [www.buddy4study.com](www.buddy4study.com), a gateway to scholarships starting from Class XI. Scholarships are made available by institutes themselves based on merit.  `}</p>
+                    										<p className="m-0">(Availability of these scholarships varies from time to time)</p>
+                  									</div>
+                  									<div className="absolute top-[1945px] left-[70px] leading-[27.38px] text-black inline-block w-[1131px]">
+                    										<p className="m-0">{`WHERE WILL YOU STUDY?
+ `}</p>
+                        <p className="m-0">This Course Is Offered By The Department Of Aeronautical Or Aerospace Engineering.</p>
+                    </div>
+                    <img className="absolute top-[12.71px] left-[27.38px] w-[40.1px] h-[40.1px] object-contain" alt="" src="Mask group.png" />
+                    <div className="absolute top-[440.06px] left-[calc(50%_-_179.94px)] text-[14.67px] text-center">You enjoy drawing</div>
+                    <img className="absolute top-[367.69px] left-[556.43px] w-[52.8px] h-[52.8px] overflow-hidden" alt="" src="Drawing Compass.svg" />
+                    <img className="absolute h-[1.63%] w-[3.82%] top-[12.8%] right-[38.26%] bottom-[85.57%] left-[57.92%] max-w-full overflow-hidden max-h-full" alt="" src="Vector.svg" />
+                    <img className="absolute top-[543.71px] left-[45.96px] w-0 h-[95.8px] object-contain" alt="" src="Line 192.svg" />
+                    <div className="absolute top-[731.47px] left-[35.2px] rounded-[50%] bg-white w-[21.5px] h-[21.5px]" />
+                    <div className="absolute top-[883.05px] left-[35.2px] rounded-[50%] bg-white w-[21.5px] h-[21.5px]" />
+                    <div className="absolute top-[1272.25px] left-[61.61px] rounded-[50%] bg-white w-[21.5px] h-[21.5px]" />
+                    <div className="absolute top-[1334.84px] left-[61.61px] rounded-[50%] bg-white w-[21.5px] h-[21.5px]" />
+                    <img className="absolute top-[1220.42px] left-[72.36px] w-0 h-[187.8px] object-contain" alt="" src="Line 193.svg" />
+                    <div className="absolute top-[2119px] left-[61px] leading-[40px] inline-block w-[560px]">
+                        <p className="m-0 whitespace-pre-wrap">{`GOVERNMENT INSTITUTES  `}</p>
+                        <p className="m-0 whitespace-pre-wrap">{`1. Indian Institute of Technology, Guwahati  `}</p>
+                        <p className="m-0 whitespace-pre-wrap">{`2. Indian Institute of Technology, Kanpur  `}</p>
+                        <p className="m-0 whitespace-pre-wrap">{`3. Indian Institute of Technology, Madras  `}</p>
+                    										<p className="m-0 whitespace-pre-wrap">{`4. Indian Institute of Space Science and Technology,
+                    										Thiruvananthapuram
+                    										5. College of Engineering, Chennai  `}</p>
+                        <p className="m-0 whitespace-pre-wrap">{`6. Jawaharlal Nehru Technological University, Hyderabad  `}</p>
+                        <p className="m-0 whitespace-pre-wrap">{`7. Rajasthan Technical University, Kota  `}</p>
+                        <p className="m-0 whitespace-pre-wrap">{`8. Punjab Engineering College, Chandigarh  `}</p>
+                    </div>
+                    <div className="absolute top-[2678px] left-[79px] leading-[35px] inline-block w-[1271px]">
+                        <p className="m-0 whitespace-pre-wrap">{`ONLINE COURSE  `}</p>
+                    										<p className="m-0 whitespace-pre-wrap">{`- NPTEL Swayam - [https://onlinecourses.nptel.ac.in/noc19_ae05/preview](https://onlinecourses.nptel.ac.in/noc19_ae05/preview)  `}</p>
+                      											<p className="m-0">"NPTEL stands for National Programme on Technology Enhanced Learning, which is a programme initiated by the Government of India that offers numerous audio and video courses on a wide variety of subjects and aims to make learning accessible for all."
+</p>
+                      											</div>
+                      											<div className="absolute top-[2102px] left-[821px] leading-[27.38px] inline-block w-[559.4px]">
+                        												<p className="m-0 whitespace-pre-wrap">{`PRIVATE INSTITUTES  `}</p>
+                        												<p className="m-0 whitespace-pre-wrap">{`(Please check if the institute is affiliated and accredited with UGC and AICTE before applying)  `}</p>
+                        												<p className="m-0 whitespace-pre-wrap">{`1. MIT Manipal  `}</p>
+                        												<p className="m-0 whitespace-pre-wrap">{`2. Dayananda Sagar College of Engineering, Bangalore  `}</p>
+                        												<p className="m-0 whitespace-pre-wrap">{`3. Sathyabama Institute of Science and Technology, Chennai  `}</p>
+                        												<p className="m-0 whitespace-pre-wrap">{`4. Kumaraguru College of Technology, Coimbatore  `}</p>
+                        												<p className="m-0 whitespace-pre-wrap">{`5. Dr. Ambedkar Institute of Technology, Bangalore  `}</p>
+                        												<p className="m-0 whitespace-pre-wrap">{`6. Nitte Meenakshi Institute of Technology, Bangalore  `}</p>
+                        												<p className="m-0 whitespace-pre-wrap">{`7. Bannari Amman Institute of Technology, Tamil Nadu  `}</p>
+                        												<p className="m-0 whitespace-pre-wrap">{`8. Madras Institute of Technology  `}</p>
+                        												<p className="m-0">&nbsp;</p>
+                        												<p className="m-0 whitespace-pre-wrap">{`Information on the institute rankings can be found at -  `}</p>
+                        												<p className="m-0 whitespace-pre-wrap">{`[www.nirfindia.org/2022/Ranking.html](www.nirfindia.org/2022/Ranking.html)  `}</p>
+                      											</div>
+                      											<div className="absolute top-[364.76px] left-[1153.93px] w-[49.9px] h-[49.9px]">
+                        												<div className="absolute top-[0px] left-[0px] border-white border-[2px] border-solid box-border w-[20.8px] h-[20.8px]" />
+                        												<div className="absolute top-[29.09px] left-[29.09px] border-white border-[2px] border-solid box-border w-[20.8px] h-[20.8px]" />
+                        												<img className="absolute top-[19.74px] left-[10.39px] w-[19.7px] h-[19.7px]" alt="" src="Vector 13.svg" />
+                      											</div>
+                      											<img className="absolute top-[364.76px] left-[308.04px] w-[53.8px] h-[53.8px] object-cover" alt="" src="image 186.png" />
+                      											</div>
+                      											</div>
+                      											<img className="absolute top-[0px] left-[71px] w-[1369px] h-16 object-cover" alt="" src="image 189.png" />
+                      											</div>);
+                      											};
+                      											
+                      											export default CareerTree;
+                      											
